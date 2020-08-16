@@ -14,5 +14,5 @@ HTML？CSS？JavaScript？jQuery？は？人の言葉で頼んだ<br><br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reisan03" />
 </a>
-<br>
-<-ということで生粋のC#erなんだよ
+<br><br><br><br><br><br><br><br><br><br><br><br>
+ということで生粋のC#erなんだよ
