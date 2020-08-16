@@ -3,6 +3,7 @@
 ## About
 ただの阿呆です。AIってかっこいいよね。<br>
 今日も今日とてクソコード量産だ～！！<br>
+Forkerです。<br>
 
 [Twitter](https://twitter.com/Reisan03_) / [AtCoder](https://atcoder.jp/users/Reisan03)
 
