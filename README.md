@@ -7,7 +7,7 @@ Forkerです。<br>
 
 [Twitter](https://twitter.com/Reisan03_) / [AtCoder](https://atcoder.jp/users/Reisan03)
 
-HTML？CSS？JavaScript？jQuery？は？人の言葉で頼んだ<br><br>
+HTML？CSS？JavaScript？jQuery？.......<br><br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Reisan03&count_private=true&show_icons=true" />
 </a>
@@ -15,4 +15,4 @@ HTML？CSS？JavaScript？jQuery？は？人の言葉で頼んだ<br><br>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reisan03" />
 </a>
 <br><br><br><br><br><br><br><br><br><br><br><br>
-ということで生粋のC#erなんだよ
+ということで生粋のC#er
