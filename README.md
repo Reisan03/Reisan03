@@ -15,4 +15,4 @@ HTML？CSS？JavaScript？jQuery？.......<br><br>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reisan03" />
 </a>
 <br><br><br><br><br><br><br><br><br><br><br><br>
-ということで生粋のC#er
+C#ちょっとわかる、JS、Ruby、などなど勉強中Death☆
