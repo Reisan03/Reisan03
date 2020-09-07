@@ -14,5 +14,5 @@ HTML？CSS？JavaScript？jQuery？.......<br><br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reisan03" />
 </a>[![trophy](https://github-profile-trophy.vercel.app/?username=Reisan03)](https://github.com/ryo-ma/github-profile-trophy)
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br>
 C#ちょっとわかる、JS、Ruby、などなど勉強中Death☆
